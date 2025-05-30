@@ -217,7 +217,7 @@ This dashboard breaks down individual pizza performance across three metrics: **
 ![Dashboard 1](https://github.com/vj220803/Pizza_Sales_Tableau_Dashboard/blob/main/Pizza_sales_dashboard_1.PNG)
 
 ### Page 2 – Best/Worst Sellers
-![Dashboard 2](Pizza_sales_dashboard_2.PNG)
+![Dashboard 2](https://github.com/vj220803/Pizza_Sales_Tableau_Dashboard/blob/main/Pizza_sales_dashboard_2.PNG)
 
 ---
 
