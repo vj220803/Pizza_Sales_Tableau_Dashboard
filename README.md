@@ -1,7 +1,4 @@
-# Pizza Sales(Tableau Dashboard)
-
-
-# 🍕 Pizza Sales Dashboard 📊
+# 🍕 Pizza Sales Tableau Dashboard 📊
 
 Welcome to the **Pizza Sales Dashboard**, a comprehensive Tableau visualization project that provides deep insights into pizza sales performance across multiple dimensions including time, category, size, revenue, and quantity sold.
 
@@ -217,7 +214,7 @@ This dashboard breaks down individual pizza performance across three metrics: **
 ## 📷 Dashboard Snapshots
 
 ### Page 1 – Overview
-![Dashboard 1](Pizza_sales_dashboard_1.PNG)
+![Dashboard 1](https://github.com/vj220803/Pizza_Sales_Tableau_Dashboard/blob/main/Pizza_sales_dashboard_1.PNG)
 
 ### Page 2 – Best/Worst Sellers
 ![Dashboard 2](Pizza_sales_dashboard_2.PNG)
